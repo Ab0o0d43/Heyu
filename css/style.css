@@ -23,7 +23,14 @@ body{
     width: 100%;
     height: 980px;
     position: relative;
-    
+}
+.nav-item a i{
+    color: white;
+    transition-duration: 0.2s;
+}
+.nav-item a i:hover{
+    color: #363636;
+    transition-duration: 0.2s;
 }
 .mainSection h1{
     font-size: 72px;
